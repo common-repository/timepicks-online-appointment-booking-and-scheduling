@@ -1,0 +1,6 @@
+/* Front End */
+/* #timesPicksBtnFloat{border:0 solid red;position:fixed;top:30%;left:-5px} */
+#timesPicksBtnFloat{border:0 solid red;position:fixed;top:30%;right:-5px}
+#timesPicksBtnFloat a:hover{opacity:0.8;transition:all .5s ease 0;margin-left:0}
+#TB_window{top:3%!important;margin-top:3px!important;border-radius:5px;z-index:999999;}
+#TB_title{background-color:transparent!important}

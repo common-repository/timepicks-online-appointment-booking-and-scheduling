@@ -1,0 +1,35 @@
+#timesPickLinkedInfo{background-color:#1E90FF;border:3px solid #30A8DC;border-radius:5px 5px 5px 5px;color:#fff;display:none;float:left;height:430px;width:90%;text-shadow:0 .5px .5px #333;margin:10px;padding:0 10px 10px}
+#timesPickLinkedInfoTitle{width:100%;margin-bottom:5px;float:left;}
+#timesPickLinkedInfo h2{color:#FFF;text-shadow:0 .5px .5px #333;font-size:25px;float:left;margin-top:10px;;}
+#timesPickLinkedInfoTitle a{color:#FFF;font-size: 16px;text-decoration:none;margin-top:20px;}
+#timesPickLinkedInfo h3{color:#FFF;clear:both;text-shadow:0 .5px .5px #333;}
+#timesPickLinkedInfoTitle{color:#FFF;}
+#timesPickLinkedInfoTitle h3 a{color: #FFFFFF;font-size: 15px;font-weight: normal;margin-top: 20px;text-decoration: none;}
+#tp_accountsettings .form-field input{width:25em}
+#tp_accountsettings .form-field label.error{color:#FB3A3A}
+.tp-label input{margin-left:10px;width:25em}
+.tp-label a{text-decoration:none;}
+#tp-left-container{width:100%;}
+#tp-login-options{border: 2px solid #CCCCCC;border-radius: 5px 5px 5px 5px;color: #278DBA;display: block;font-size: 14px;font-weight: bold;margin: 30px auto 20px;padding: 10px; width: 45%;}
+#tp-login-options label{margin-left:2px;margin-right:35px;}
+#tp-fieldset{margin-top:10px}
+#tp-fieldset legend{font-size:20px;margin:0;padding:0}
+#tp-fieldset form{padding-left:15px;padding-top:20px}
+#tp-fieldset ul,#tp-fieldset li{border:0 none;list-style:none outside none;margin:0;padding:0}
+#tp-fieldset li{clear:both;list-style:none outside none;padding-bottom:10px}
+#tp-fieldset input{width:300px}
+#tp-fieldset label{float:left;width:100px}
+#tp-side{float:left;margin-left:30px;margin-top:20px}
+#tp-side li{font-size:14px;padding-bottom:20px}
+#tp-side ul span{font-size:20px}
+#tp-container{width:100%}
+#shortcode-images li{display:inline;margin-left:4px}
+#shortcode-images img{padding-right:20px}
+#shortcode-images li img{padding-top:20px}
+.widgets_info img{padding-top:15px}
+#widget_large{margin-right:10px;width:200px}
+#mini_widget{margin-left:10px;width:150px}
+#button_widget{margin-left:20px;width:100px}
+#unlink_account{margin:10px 0}
+#tp-shortcodes,#mini_widget a{padding-left:15px;float:left;}
+#tpcreateusersub,.widgets_info{float:left}
